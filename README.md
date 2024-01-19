@@ -1,1 +1,3 @@
-# Software-Architecture-for-Flight-data
+# Real-Time Flight Data Acquisition - Hybrid Architecture
+
+This project showcases our collaborative effort in designing and implementing a hybrid architecture that seamlessly integrates Event-Driven Architecture and Microservices Architecture for a real-time Flight Data Acquisition unit within the aviation sector. Leading the requirements elicitation phase, we ensured comprehensive specifications and defined Architectural Significant Requirements. Our strategic Quality Attribute planning involved identifying Functions Driving Them, trade-offs, and tactics for optimal performance. As part of the evaluation team, we provided valuable insights into the architecture's effectiveness and recommended enhancements for both process and product improvements.
